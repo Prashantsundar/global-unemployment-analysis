@@ -145,4 +145,4 @@ A **binary classification task** was constructed to predict whether a country's 
 ---
 **🛠️ Tools Used:** Python · Pandas · Seaborn · Scikit-Learn · Matplotlib  
 **📂 Dataset:** Global Unemployment — ILO (International Labour Organization)  
-**👤 Author:** [Prasanth Sundar] | [] | [https://www.linkedin.com/in/prasanth-sundar-b65475359/]
+**👤 Author:** [Prasanth Sundar] | [https://github.com/Prashantsundar/global-unemployment-analysis.git] | [https://www.linkedin.com/in/prasanth-sundar-b65475359/]
